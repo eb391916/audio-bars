@@ -14,7 +14,7 @@ function toggleSong() {
 }
 
 function preload() {
-    song = loadSound('assets/Muriel-BobbyRichards.mp3');
+    song = loadSound('Muriel-BobbyRichards.mp3');
 }
 
 function setup() {
